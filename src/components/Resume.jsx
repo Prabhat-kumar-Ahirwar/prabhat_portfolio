@@ -33,7 +33,7 @@ const Resume = () => {
 
         {/* Resume Button */}
         <a
-          href="https://github.com/Prabhat-kumar-Ahirwar/MyResume/blob/main/myresume.pdf"
+          href="https://github.com/Prabhat-kumar-Ahirwar/MyResume/blob/main/Prabhat%20Resume%20Intern.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-6 py-2 text-sm sm:text-base font-medium text-white bg-blue-500 rounded-lg hover:bg-blue-600 transition"
